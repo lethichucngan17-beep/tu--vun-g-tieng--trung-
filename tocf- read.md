@@ -9,3 +9,4 @@
 | 3 | 你 | nǐ | bạn, cậu | | |
 | 4 | 好 | hǎo | tốt, được, hay | | |
 | 5 | 是 | shì | là | Dùng trong câu khẳng định | |
+6 弥补

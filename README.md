@@ -22,7 +22,7 @@
 ## 🎨 THIẾT KÊ BẢNG TỪ VỰNG MẪU
 
 ### 🍎 Nhóm 1: Trái Cây
-| STT | Chữ Hán | Pinyin | Âm HV | Nghĩa | Ví Dụ | Hình Ảnh |
+| STT | Chữ Hán | Pinyin | Ngữ cảnh | Nghĩa | Ví Dụ | Hình Ảnh |Từ đồng nghĩa # trái nghĩa|
 |-----|----------|---------|--------|--------|---------|----------|
 | 1 | 苹果 | píngguǒ | Bình quả | Táo | 我喜欢吃苹果。 | 🍎 |
 | 2 | 香蕉 | xiāngjiāo | Hương tiêu | Chuối | 香蕉很甜。 | 🍌 |

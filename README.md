@@ -2,7 +2,7 @@
 <div align="center">
 
 # 🧚‍♀️ KHO TỪ VỰNG TIẾNG TRUNG
-## 🎯 HỆ THỐNG HỌC THÔNG MINH - 30 NĂM KINH NGHIỆM
+## 🎯 quyết tâm thi đỗ tocfl C
 
 ![Progress](https://img.shields.io/badge/Progress-15%25-brightgreen)
 ![Words](https://img.shields.io/badge/Tổng_từ_vựng-150_from-blue)
@@ -48,12 +48,7 @@ graph LR
     style E fill:#4caf50
 ```
 
-## 🚀 BẮT ĐẦU HỌC
 
-1. **Chọn chủ đề** phù hợp từ mục lục
-2. **Học 5-10 từ/ngày** theo lộ trình
-3. **Ôn tập định kỳ** theo hệ thống spaced repetition
-4. **Thực hành** đặt câu hàng ngày
 
 ## 💡 LỜI KHUYÊN TỪ CHUYÊN GIA
 
@@ -62,6 +57,6 @@ graph LR
 ---
 <div align="center">
 
-**✨ Bắt đầu hành trình chinh phục tiếng Trung ngay hôm nay! ✨**
+**✨ Bắt đầu hành trình chinh phục TOCF C  ngay hôm nay! ✨**
 
 </div>

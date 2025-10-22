@@ -1,7 +1,7 @@
 <!-- HEADER ĐẸP VỚI ẢNH BANNER -->
 <div align="center">
 
-# 🇨🇳 KHO TỪ VỰNG TIẾNG TRUNG
+# 🧚‍♀️ KHO TỪ VỰNG TIẾNG TRUNG
 ## 🎯 HỆ THỐNG HỌC THÔNG MINH - 30 NĂM KINH NGHIỆM
 
 ![Progress](https://img.shields.io/badge/Progress-15%25-brightgreen)
